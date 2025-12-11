@@ -1,0 +1,5 @@
+{
+  "name": "PatientLog",
+  "description": "A comprehensive medical patient management dashboard for clinics to track visits, prescriptions, and appointments.",
+  "requestFramePermissions": []
+}
